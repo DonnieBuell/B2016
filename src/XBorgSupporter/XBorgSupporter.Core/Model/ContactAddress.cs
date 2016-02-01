@@ -8,11 +8,71 @@ namespace XBorgSupporter.Core
 		{
 		}
 
-		public Country Country { get; set;}
-		public String City { get; set;}
-		public String Postcode { get; set;}
-		public String Street { get; set;}
-		public String HouseNumber { get; set;}
+		Country country;
+		String city;
+		String postcode;
+		String street;
+		String houseNumber;
+
+		public Country Country 
+		{
+			get 
+			{
+				return this.country;
+			}
+			set 
+			{
+				this.country = value;
+			}
+		}
+
+		public String City 
+		{
+			get 
+			{
+				return this.city;
+			}
+			set 
+			{
+				this.city = value;
+			}
+		}
+
+		public String Postcode 
+		{
+			get 
+			{
+				return this.postcode;
+			}
+			set 
+			{
+				this.postcode = value;
+			}
+		}
+
+		public String Street 
+		{
+			get 
+			{
+				return this.street;
+			}
+			set 
+			{
+				this.street = value;
+			}
+		}
+
+		public String HouseNumber 
+		{
+			get 
+			{
+				return this.houseNumber;
+			}
+			set 
+			{
+				this.houseNumber = value;
+			}
+		}
 	}
 }
 

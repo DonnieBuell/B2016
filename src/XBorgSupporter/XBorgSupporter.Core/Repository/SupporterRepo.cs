@@ -8,9 +8,14 @@ namespace XBorgSupporter.Core
 		{
 		}
 
-		public Supporter CreateSupporter()
+		public Supporter CreateSupporterProfile()
 		{
 			return new Supporter ();
+		}
+
+		public List<Supporter> GetSupporters()
+		{
+			return new List<Supporter> ();
 		}
 	}
 }

@@ -38,10 +38,12 @@
     <Compile Include="Model\ContactAddress.cs" />
     <Compile Include="Model\Country.cs" />
     <Compile Include="Repository\SupporterRepo.cs" />
+    <Compile Include="Service\SupporterDataService.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
     <Folder Include="Model\" />
     <Folder Include="Repository\" />
+    <Folder Include="Service\" />
   </ItemGroup>
 </Project>
