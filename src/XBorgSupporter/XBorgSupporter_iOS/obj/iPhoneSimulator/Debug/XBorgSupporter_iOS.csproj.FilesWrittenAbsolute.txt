@@ -13,3 +13,8 @@
 /Users/Micha/_Projects/B2016/src/XBorgSupporter/XBorgSupporter_iOS/bin/iPhoneSimulator/Debug/XBorgSupporter_iOS.exe
 /Users/Micha/_Projects/B2016/src/XBorgSupporter/XBorgSupporter_iOS/obj/iPhoneSimulator/Debug/XBorgSupporter_iOS.exe
 /Users/Micha/_Projects/B2016/src/XBorgSupporter/XBorgSupporter_iOS/obj/iPhoneSimulator/Debug/XBorgSupporter_iOS.exe.mdb
+/Users/Micha/_Projects/B2016/src/XBorgSupporter/XBorgSupporter_iOS/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/86-view-87.nib
+/Users/Micha/_Projects/B2016/src/XBorgSupporter/XBorgSupporter_iOS/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/94-view-95.nib
+/Users/Micha/_Projects/B2016/src/XBorgSupporter/XBorgSupporter_iOS/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UINavigationController-6.nib
+/Users/Micha/_Projects/B2016/src/XBorgSupporter/XBorgSupporter_iOS/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-86.nib
+/Users/Micha/_Projects/B2016/src/XBorgSupporter/XBorgSupporter_iOS/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-94.nib
