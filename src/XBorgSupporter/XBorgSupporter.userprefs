@@ -1,4 +1,4 @@
-﻿<Properties RefactoringSettings.EnableRefactorings="True">
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="XBorgSupporter_iOS/XBorgSupporter_iOS.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench>
     <Pads>
